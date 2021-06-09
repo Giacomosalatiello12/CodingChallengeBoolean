@@ -1,0 +1,30 @@
+body,#logo,.input,.monopattino{margin:auto;}
+body {font-family: 'Ubuntu', sans-serif;
+background-image: url("background.jpg");
+background-size: cover;
+width: 1300px;
+background-repeat: no-repeat;
+color: white;}
+.logo-text,.input,.bt-stat1,.bt-stat2,.bt-stat3,.monopattino{padding:15px}
+.logo-text,.input{text-align:center;}
+.black50{background-color: rgba(0, 0, 0,0.5);
+align-items: center;}
+#logo{width:300px;
+display: block;
+padding-top:60px;}
+.logo-text{color:#00FF00;
+font-size: 50px;}
+.input{background-color: #00FF00;
+width:75%;}
+.monopattino{width:77%;}
+.nome-m{font-size:25px;}
+.bt-stat1,.bt-stat2,.bt-stat3,.black50,.input{border: 3px solid black;
+border-radius: 15px}
+.bt-stat1{width: 40%;
+background-color:#e08822;}
+.charge{padding-bottom: 10px}
+.bt-stat2{width: 85%;
+background-color:#00FF00;}
+.bt-stat3{width: 16%;
+background-color:#FF0000;}
+.btm{padding-bottom: 80px;}
